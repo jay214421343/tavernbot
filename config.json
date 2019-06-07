@@ -1,7 +1,7 @@
 {
-  "token": "KEEP IT SECRET KEEP IT SAFE DON'T DO THAT EVER AGAIN",
+  "token": "NTg1NDczNDIxNjYwNTIwNDY2.XPo5aQ.wffHKBslXf4DRb2VI0j0VVWxop4",
   "botkey": "!",
-  "botRole": "Warforged",
-  "activeChannels": ["golemworks", "bot"],
-  "gameStatus": "tavernbot | !help for info"
+  "botRole": "MultiBot",
+  "activeChannels": ["general", "bot"],
+  "gameStatus": "| !help for info"
 }
